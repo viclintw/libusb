@@ -1,0 +1,3 @@
+[submodule "reference/usb-doc"]
+	path = reference/usb-doc
+	url = https://github.com/viclintw/usb-doc.git
